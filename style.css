@@ -34,12 +34,11 @@ h1 {
 	font-size: 25px;
 	text-decoration: none;
 	cursor: pointer;
-	padding: 37px 31px;
+	padding: 33px 30px;
 	color: rgb(27, 73, 72);
 	opacity: 1;
 	transition: 0.3s;
 	text-align: center;
-	font-weight: bolder;
 }
 
 .btn:hover {
