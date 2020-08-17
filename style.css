@@ -49,4 +49,46 @@ h1 {
 	text-align: center;
 }
 
+/* Add a black background color to the top navigation */
+.topnav {
+	position: relative;
+	overflow: hidden;
+	
+}
+
+/* Right-aligned section inside the top navigation */
+.topnav-right {
+	float: right;
+	margin-right: 50px;
+	font-family: 'Aldrich', sans-serif;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+	background-color: #ddd;
+	color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+	color: rgb(189, 189, 189);
+  }
+  
+  /* Centered section inside the top navigation */
+  .topnav-left a {
+	float: left;
+	margin-left: 50px;
+	font-family: 'Aldrich', sans-serif;
+  }
+  
+  /* Style the links inside the navigation bar */
+.topnav a {
+	float: left;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 15px;
+  }
+
 
