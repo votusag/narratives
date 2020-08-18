@@ -91,9 +91,5 @@ h1 {
 	font-size: 15px;
   }
 
-@font-face {
-	font-family: 'Aldrich';
-	src: URL('<link href="https://fonts.googleapis.com/css2?family=Aldrich&display=swap" rel="stylesheet">') format('truetype');
-  }
 
 
