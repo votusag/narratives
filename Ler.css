@@ -1,0 +1,44 @@
+.container {
+    text-align: center;
+    font-family: Aldrich, sans-serif;
+}
+
+h2 {
+    letter-spacing: 0.200em;
+    font-size: 20px;
+    font-weight: normal;
+    color: #001019;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+    color: rgb(70, 70, 70);
+}
+
+li {
+    list-style-type: none;
+  }
+
+.Poetry {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    
+}
+
+.Based-on-real-facts {
+    padding-top: 60px;
+
+}
+
+
+ul {
+    padding: 0;
+    margin: 8px;
+}
+
+body {
+    background-color:rgb(233, 233, 233);
+}
+
