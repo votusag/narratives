@@ -14,6 +14,7 @@ body {
 	
 	background: linear-gradient(180deg, #001019 18.77%, #9b2c009f 348.5%);
 	min-height: 100%;
+	margin: 0%;
 		
 	
 }
@@ -60,7 +61,8 @@ h1 {
 .topnav {
 	position: relative;
 	overflow: hidden;
-	padding-top: 30px;
+	padding-top: 8px;
+
 	
 }
 
