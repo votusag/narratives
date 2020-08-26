@@ -2,12 +2,15 @@ h1 {
     text-align: center;
     padding-top: 30px;
     font-weight: normal;
+    font-size: 28px;
+    color: rgb(80, 80, 80);
+    
 }
 
 p {
     text-align: center;
     padding-top: 100px;
-    font-size: 18px;
+    
     
 }
 

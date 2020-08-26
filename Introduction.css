@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    background-color: rgb(233, 233, 233);
+}
+
+p {
+    text-align: center;
+    font-family: Aldrich, sans-serif;
+    padding-top: 15em;
+    color: #001019;
+}
+
