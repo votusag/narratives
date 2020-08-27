@@ -35,13 +35,13 @@ h1 {
 
 .btn {
 	position: relative;
-	background-color: #E5E5E5;
+	background-color: #202020;
 	border-radius: 50px;
 	font-size: 25px;
 	text-decoration: none;
 	cursor: pointer;
 	padding: 39px 30px;
-	color:  black;
+	color: rgb(233, 233, 233);
 	opacity: 1;
 	transition: 0.3s;
 	font-family: Aldrich, sans-serif;
