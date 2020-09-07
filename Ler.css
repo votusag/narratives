@@ -36,9 +36,6 @@ li {
 
 }
 
-
-
-
 ul {
     padding: 0;
     margin: 8px;
@@ -47,4 +44,11 @@ ul {
 body {
     background-color:rgb(233, 233, 233);
 }
+
+.topnav-centered a {
+	float: left;
+	margin-left: 30px;
+    font-family: 'Aldrich', sans-serif;
+    padding-top: 8px;
+  }
 
